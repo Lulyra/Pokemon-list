@@ -1,0 +1,22 @@
+.pokemon-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+.image-pokemon-list {
+    width: 100px;
+    height: 100px;
+}
+
+.title-pokemon-detail{
+    font-family: "Piedra";
+    margin-top: 70px;
+    font-size: 100px;
+
+}
+.pokemon {
+    border: 1px black solid;
+    padding: 10px 0;
+    margin: 5px 100px;
+    border-radius: 20px;
+}

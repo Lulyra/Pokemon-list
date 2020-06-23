@@ -1,0 +1,108 @@
+.type-list {
+    display: grid;
+    list-style-type: none;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    font-size: 40px;
+    font-family: "Odibee Sans";
+}
+.weak-list {
+    display: grid;
+    list-style-type: none;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 10px;
+    font-size: 30px;
+    font-family: "Odibee Sans";
+}
+
+.bug{
+    border-radius: 30px;
+    color: white;
+    background-color: #729f3f;
+}
+.dark{
+    border-radius: 30px;
+    color: white;
+    background-color: #707070;
+}
+.dragon{
+    border-radius: 30px;
+    color: white;
+    background: linear-gradient(0deg, #53a4cf 50%, #f16e57 50%);
+}
+.electric{
+    border-radius: 30px;
+    color: black;
+    background-color: #eed535;
+}
+.fairy{
+    border-radius: 30px;
+    color: black;
+    background-color: #fdb9e9;
+}
+.fighting{
+    border-radius: 30px;
+    color: white;
+    background-color: #d56723
+}
+.fire{
+    border-radius: 30px;
+    color: white;
+    background-color: #fd7d24;
+}
+.flying{
+    border-radius: 30px;
+    color: black;
+    background: linear-gradient(0deg, #3dc7ef 50%, #bdb9b8 50%);
+}
+.ghost{
+    border-radius: 30px;
+    color: white;
+    background-color: #7b62a3;
+}
+.ground{
+    border-radius: 30px;
+    color: black;
+    background: linear-gradient(0deg, #f7de3f 50%, #ab9842 50%);
+}
+.ice{
+    border-radius: 30px;
+    color: black;
+    background-color: #51c4e7;
+}
+.normal{
+    border-radius: 30px;
+    color: black;
+    background-color: #a4acaf;
+}
+.psychic{
+    border-radius: 30px;
+    color: white;
+    background-color: #f366b9;
+}
+.rock{
+    border-radius: 30px;
+    color: white;
+    background-color: #a38c21;
+}
+.steel{
+    border-radius: 30px;
+    color: black;
+    background-color: #9eb7b8;
+}
+.water{
+    border-radius: 30px;
+    color: white;
+    background-color: #4592c4;
+}
+.poison{
+    border-radius: 30px;
+    color: white;
+    background-color: #b97fc9;
+}
+.grass{
+    border-radius: 30px;
+    color: black;
+    background-color: #9bcc50;
+}

@@ -1,0 +1,23 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: gray;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    font-size: 130%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+
+.navbar-home {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-about{
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,27 @@
+.css {
+    height: 20px;
+    background-color: lightcoral;
+}
+
+.skills-table{
+    margin-left: 50px;
+}
+
+.container {
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 30px;
+}
+
+.text-skill-bar{
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.skills {
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: white;
+    border-radius: 30px;
+}
